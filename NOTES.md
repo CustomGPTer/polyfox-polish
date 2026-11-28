@@ -1,9 +1,7 @@
-The first version of PolyFox Polish: the whole Polish course, A1 to C2, offline on Android.
+PolyFox Polish 1.0.1 ties PolyFox Polish into TorusApps.com.
 
-- 180 units, 2,160 words and about 2,880 sentences, every one spoken.
-- Cases one at a time, a Word endings book of 1,373 nouns and adjectives, verbs in aspect pairs with tables for 369 verbs.
-- Speaking checked on the phone by Whisper Small. Nothing is sent anywhere.
-- Twelve conversations and 42 stories set in Poland.
+- Check for updates, the website and More apps now open torusapps.com in your browser. PolyFox still has no internet permission.
+- About and privacy adds the privacy policy, hello@torusapps.com and Developed by Jonathan Jackson.
+- A new 2-second opening screen, and Android 12+ opens on PolyFox's own colours with no white flash.
 
-PolyFoxPolish.apk is about 334 MB. Android 8 or later.
-SHA-256: a7737de2f0572072882722f69c36d01c6338842652390d372dfb590dd2de3132
+Installs over the earlier version and keeps everything.
